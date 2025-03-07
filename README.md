@@ -1,3 +1,1 @@
-# GateOne
-# GateOne
-# Gate
+#Phase gate form mister chibuzo 
